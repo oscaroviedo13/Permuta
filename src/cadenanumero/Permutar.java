@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 
 public class Permutar{
     
-    public static void main ( String args []){
+    public static void main( String args []){
         
         Permutar objPermutar = new Permutar();
         String sLeerConsola = objPermutar.leerConsola();
