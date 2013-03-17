@@ -1,4 +1,5 @@
 
+
 package cadenanumero;
 
 import java.io.BufferedReader;
